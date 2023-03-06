@@ -88,9 +88,3 @@ footer{
        text-align:center;
        }
 
-/*-----------------
-Contenedor Img --*/
-.cont-img {
-    object-fit: cover;
-    width: 100%;
-}
